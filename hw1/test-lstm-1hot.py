@@ -9,6 +9,7 @@ config.gpu_options.per_process_gpu_memory_fraction = 0.3
 set_session(tf.Session(config = config))
 
 #import matplotlib.pyplot as plt
+#import
 
 class Model(object):
 	def __init__(self):

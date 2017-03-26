@@ -10,6 +10,7 @@ class Model(object):
 		self.N_maxWord = 30
 		self.back = 2
 		self.file_name = sys.argv[1]
+		# check
 
 	def cut(self):
 		fin = self.file_name
