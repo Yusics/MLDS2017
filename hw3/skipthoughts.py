@@ -21,8 +21,8 @@ profile = False
 #-----------------------------------------------------------------------------#
 # Specify model and table locations here
 #-----------------------------------------------------------------------------#
-path_to_models = '../MLDS/hw3/skipthought/'
-path_to_tables = '../MLDS/hw3/skipthought/'
+path_to_models = './skipthought/'
+path_to_tables = './skipthought/'
 #-----------------------------------------------------------------------------#
 
 path_to_umodel = path_to_models + 'uni_skip.npz'
