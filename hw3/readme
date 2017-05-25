@@ -1,0 +1,8 @@
+以下是我們使用的軟體
+Tensorflow r1.0, 
+numpy 1.12.0, 
+CUDA8.0, 
+scipy 0.19.0, 
+skipthoughts, 
+skimage, 
+Theano 0.8.2
